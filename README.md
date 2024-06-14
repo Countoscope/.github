@@ -1,1 +1,1 @@
-# .github
+# Countoscope welcome page
